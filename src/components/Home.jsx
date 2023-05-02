@@ -6,7 +6,6 @@ import Button from 'react-bootstrap/Button';
 import "../index.css";
 import Image from 'react-bootstrap/Image';
 import img from "../images/shiva_lightcoffee-removebg-preview.png";
-import ThreeSixty from 'react-360-view';
 
 
 
