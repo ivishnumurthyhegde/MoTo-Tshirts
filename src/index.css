@@ -1,0 +1,153 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+
+  /* background-color: #00538a;
+background-image: url("https://www.transparenttextures.com/patterns/cross-scratches.png"); */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.homeContainer{
+  background-color: #9FA6B2;
+  /* text-align: center; */
+  padding: 2% 12% ;
+
+}
+.title-h1{
+  font-family:"Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1;
+  padding-top: 7rem;
+}
+
+
+.homeImg{
+  position: relative;
+margin-left: 6rem;
+
+}
+
+
+.featureCol{
+  padding: 8%;
+
+}
+
+.features-h3{
+  padding: 7% 17%;
+}
+.features-box{
+  text-align: center;
+padding: 5%;
+}
+
+.faIcons{
+  height: 5rem;
+  width: 5rem;
+  color: plum;
+}
+
+.faIcons:hover{
+  color: #fc3cbf;
+}
+
+.gallery{
+  padding: 7% 15% 5% 15%;
+background-color:#9FA6B2;
+color: #fff;
+}
+
+.gallery-h2{
+  font-size: 3rem;
+  text-align: center;
+  color: black;
+}
+.sliders{
+  padding-left: 28%;
+}
+
+.BuynowDiv{
+padding: 7% 15%;
+}
+
+.customdesign{
+  padding: 7% 15% 5% 15%;
+  background-color: #9FA6B2;
+  align-items:center ;
+  text-align: center;
+  }
+
+.custom-h2{
+  font-family: "Montserrat-dark";
+  font-size: 2rem;
+  color: #151414;
+  text-align: center;
+}
+
+.custom-h3{
+font-size: 3.5rem;
+color: #090909;
+text-align: center;
+padding: 2%;
+}
+
+.designbtn{
+  color: #fc3cbf;
+}
+
+.footer{
+  padding: 3%;
+  text-align: center;
+  align-items: center;
+  size: 5rem;
+}
+
+/*media querries for phone view*/
+
+@media (max-width: 800px){
+
+  .gallery-h2{
+ 
+    font-size: 2rem;
+    text-align: center;
+  }
+
+   .sliders{
+    padding: 5%;
+  }
+  
+  .card-img{
+    width: 100%;
+    height: 30%;
+  }
+
+  span{
+    color: rgb(103, 209, 169);
+    font-size: 1.5rem;
+  }
+
+  
+  .custom-h2{
+    font-family: "Montserrat-dark";
+    font-size: 1.5rem;
+    color: #fff;
+    text-align: center;
+  
+  }
+
+  .custom-h3{
+    font-size: 2.5rem;
+    color: #fff;
+     text-align: center;
+   }
+
+}
