@@ -25,7 +25,7 @@ function Buynow(){
           <Card.Text>
           Best quality dark drifit tshirt for proud kannadigas. Wear it for years with Pride. 180gsm tshirt suitable for casual wear and functions too.
           </Card.Text>
-          <Button variant="outline-danger" target="blank" href="https://moto-tshirts.myinstamojo.com/product/3345519/drifit-t-shirts-best-quality-180-gsm">Buy Now</Button>
+          <Button variant="outline-danger" target="blank" href="https://mo-to-tshirts-shopping-mkos.vercel.app/">Buy Now</Button>
         </Card.Body>
       </Card>
       </div></Col>
@@ -38,7 +38,7 @@ function Buynow(){
           <Card.Text>
           Best quality dark drifit tshirt. Wear it for years with belive in God. 180gsm tshirt suitable for casual wear and functions too.
           </Card.Text>
-          <Button variant="outline-danger" target="blank" href="https://moto-tshirts.myinstamojo.com/product/3345519/drifit-t-shirts-best-quality-180-gsm">Buy Now</Button>
+          <Button variant="outline-danger" target="blank" href="https://mo-to-tshirts-shopping-mkos.vercel.app/">Buy Now</Button>
         </Card.Body>
       </Card>
       </div>
