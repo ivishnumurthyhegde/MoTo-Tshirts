@@ -26,7 +26,7 @@ function Home() {
               designs to cater to your unique preferences</h1>
             <Button variant="primary" size="lg" active className='mt-3'
               onMouseLeave={comeBack} onMouseOver={changeBackground}
-              target='blank' href='https://moto-tshirts.myinstamojo.com/'>
+              target='blank' href='https://mo-to-tshirts-shopping-mkos.vercel.app/'>
               Our Store
             </Button>
           </Col>
