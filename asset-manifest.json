@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.552780f9.css",
+    "main.js": "/static/js/main.d6e48397.js",
+    "static/media/bg_NamahShivaay_blue-removebg-preview.png": "/static/media/bg_NamahShivaay_blue-removebg-preview.fd72ee819b2e4d1beb9c.png",
+    "static/media/ganesha-removebg-preview.png": "/static/media/ganesha-removebg-preview.51d78aa7b49c17f6f3ff.png",
+    "static/media/shiva_lightcoffee-removebg-preview.png": "/static/media/shiva_lightcoffee-removebg-preview.e079eb77076d1a85a44e.png",
+    "static/media/drifit_kannadagari_black-removebg-preview (1).png": "/static/media/drifit_kannadagari_black-removebg-preview (1).40d85351f8782b0d04a9.png",
+    "static/media/yakshagana_red-removebg-preview.png": "/static/media/yakshagana_red-removebg-preview.c74c4041954cfc0ed0c5.png",
+    "static/media/jaikarnataka_lightblue-removebg-preview.png": "/static/media/jaikarnataka_lightblue-removebg-preview.f48306d82d7ed9b12cdd.png",
+    "static/media/kannadakampu_skyblue-removebg-preview.png": "/static/media/kannadakampu_skyblue-removebg-preview.7f61720aaea5b72c7e50.png",
+    "static/media/drifit_shivachant_coffee-removebg-preview1.png": "/static/media/drifit_shivachant_coffee-removebg-preview1.62f96cd75835c41e0fb3.png",
+    "index.html": "/index.html",
+    "main.552780f9.css.map": "/static/css/main.552780f9.css.map",
+    "main.d6e48397.js.map": "/static/js/main.d6e48397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.552780f9.css",
+    "static/js/main.d6e48397.js"
+  ]
+}
